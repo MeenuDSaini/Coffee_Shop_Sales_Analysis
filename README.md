@@ -7,23 +7,23 @@ The objective of this project is to analyze sales data from a coffee shop to gai
 
 **Retrieve Detailed Transaction Information**:
 
-    * Efficiently obtain comprehensive details for specific transactions in the dataset.
+    Efficiently obtain comprehensive details for specific transactions in the dataset.
   
 **Verify Transaction Existence:**
 
-    * Implement methods to confirm the presence of specific transactions in the dataset.
+    Implement methods to confirm the presence of specific transactions in the dataset.
     
 **Identify Store Locations:**
 
-    * Determine the locations of stores associated with specific store IDs.
+    Determine the locations of stores associated with specific store IDs.
     
 **Analyze Product Pricing and Billing:**
 
-    * Extract and analyze unit prices and total bills associated with different product IDs.
+    Extract and analyze unit prices and total bills associated with different product IDs.
     
 **Track Transaction Dates:**
 
-    * Retrieve and analyze the dates associated with specific transactions.
+    Retrieve and analyze the dates associated with specific transactions.
     
 ### Visualize Sales Data:
 
